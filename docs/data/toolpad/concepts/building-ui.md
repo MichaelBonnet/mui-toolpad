@@ -18,7 +18,7 @@ Currently supported components:
 - File Picker - Select a file from the file system.
 - [Text](https://mui.com/material-ui/react-typography/) - Present text content. Can be either plain text, markdow or links.
 - [Select](https://mui.com/material-ui/react-select/) - Capture user input from a list of options.
-- [Paper](https://mui.com/material-ui/react-paper/) - Provide a visual differantation for your components
+- [Paper](https://mui.com/material-ui/react-paper/) - Provide a visual differentation for your components
 - [Tabs](https://mui.com/material-ui/react-tabs/) - A tabs strip that can be used to shift between different views.
 - [Container](https://mui.com/material-ui/react-container/) - A wrapper element that can be used to hide or show its children.
 - List - An array of components presented as a repeating list.
